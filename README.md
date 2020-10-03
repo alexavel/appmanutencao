@@ -107,6 +107,6 @@ Solução: Fiz uma rotina para trazer de forma mais clara vizualizar a tempo de 
  a thread deverá incrementar uma barra de progresso, com valor Max 200 (100 de cada thread). A mesma barra de progresso deve ser usada 
  em ambas threads`
 
-Causa: 
+Causa: Criar Formulário com 02 Threads. 
 
-Solução:
+Solução: Foi criado um formulário com uma Thread principal e 02 processamentos paralelos Task para manipular um ProgressBar.
